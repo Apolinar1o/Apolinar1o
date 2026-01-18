@@ -1,22 +1,41 @@
-## Oiii eu sou o Apolinar1o, amante de programação e tecnologia!
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apolinar1o&show_icons=true&theme=radical&hide=contribs)
-<div style="display: inline_block"><br>
- <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" src="https://media.discordapp.net/attachments/1063523239718035607/1073394504448606258/0756c5c0-7663-4389-8f63-de682dee2e77.jpg" height="200" style="border-radius:50px;" 
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/antonio_gonzzaga/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:a.apolinario.neto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/antonio-gonzaga-aa409a266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+# Olá, eu sou o Antonio Gonzaga 👋
 
+### 🤖 Especialista em IA & Ciência de Dados em Formação
+Focado em transformar problemas complexos em soluções inteligentes através de Python e Machine Learning.
 
+---
 
+## 🛠️ Tecnologias e Ferramentas
+
+### 🧠 Inteligência Artificial & Dados
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 💻 Desenvolvimento Full Stack
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+---
+
+## 🧪 Domínio Técnico em Machine Learning
+Atualmente aplico e estudo profundamente os seguintes modelos e conceitos:
+
+| Categoria | Tecnologias / Modelos |
+| :--- | :--- |
+| **Modelos Preditivos** | Random Forest, XGBoost, LightGBM, Decision Trees |
+| **Generative AI** | Prompt Engineering (Zero-shot/Few-shot), LLMs, Integração de APIs de IA |
+| **Cloud & DevOps** | AWS e Microsoft Azure (Foco em Certificações) |
+| **Matemática/Engenharia** | Otimização (Heurísticas BRKGA), EDOs e Algoritmos de busca |
+
+---
+
+## 📫 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-gonzaga-aa409a266/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.apolinario.neto@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/antonio_gonzzaga/)
+
+---
+*🌊 Amante de bodyboard e tecnologia.*
